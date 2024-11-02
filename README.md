@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3>About Me:</h3>
 
-- 👩‍💻 SDE-IV at [walmart](https://walmart.com)
+- 👩‍💻 Staff Software Engineer at [walmart](https://walmart.com)
 <!--
 - 🌱 Currently learning **Nextjs**
 - 💡 Building projects
